@@ -20,3 +20,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
 ![preview](https://i.imgur.com/xOhMnOJ.png)
+
+## Thanks to
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)
