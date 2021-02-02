@@ -18,7 +18,7 @@
 3. Select `rose-pine.itermcolors`
 4. Color Presets > rose-pine
 
-## Screenshots
+## Gallery
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
