@@ -20,6 +20,14 @@
 
 ## Gallery
 
-Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
+**Rosé Pine**
 
-![preview](https://i.imgur.com/xOhMnOJ.png)
+![iTerm2 with Rosé Pine](https://github.com/rose-pine/iterm/raw/main/screenshots/base.png)
+
+**Rosé Pine Moon**
+
+![iTerm2 with Rosé Pine Moon](https://github.com/rose-pine/iterm/raw/main/screenshots/moon.png)
+
+**Rosé Pine Dawn**
+
+![iTerm2 with Rosé Pine Dawn](https://github.com/rose-pine/iterm/raw/main/screenshots/dawn.png)
